@@ -8,4 +8,7 @@ statistics or features such as containing common words. Those features are then 
 Classification is one such model, and the sentiments expressed by tweets can be classified as 'negative' or 'positive'. Furthermore, text 
 analytics can provide interesting results when building intelligent applications for example.
 
+The following files (tweets.csv and stopwords.csv) were used to run a text experiment on Azure Machine Learning. There's no ensuing 
+predictive experiment.
+
 
